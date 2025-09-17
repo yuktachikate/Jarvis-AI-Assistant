@@ -1,0 +1,4 @@
+/Users/achoudhary/Documents/side-projects/AIBot/jarvis.py:308: RuntimeWarning: Mean of empty slice.
+  bh = indata[:, bh_channel_index:].mean(axis=1).astype(np.float32)
+/Users/achoudhary/.pyenv/versions/3.10.15/lib/python3.10/site-packages/numpy/core/_methods.py:181: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
